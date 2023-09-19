@@ -16,7 +16,7 @@ Welcome to my "100 Days of Python" challenge! In this repository, you'll find my
 
 ## Daily Progress
 
-- [Day 1](Day%201/): Introduction to Python, Variables, and Data Types
+- [Day 1]([Day%201/](https://github.com/Dishantkharkar/100_Days_OF_Python/blob/main/Day%201%20-%20Basics%20OF%20Python.ipynb)): Introduction to Python, Variables, and Data Types
 - [Day 2](Day%202/): Control Flow - Conditional Statements (if-else)
 - [Day 3](Day%203/): Loops - for and while
 - ...
